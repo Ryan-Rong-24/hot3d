@@ -1,4 +1,5 @@
 # pixi environments
 .pixi
 # dataset download instruction
-/dataset/**
+hot3d/dataset/
+__pycache__/

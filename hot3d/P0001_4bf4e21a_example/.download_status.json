@@ -1,0 +1,10 @@
+{
+    "main_vrs": true,
+    "mps_slam_trajectories": true,
+    "mps_slam_calibration": true,
+    "mps_slam_points": true,
+    "mps_slam_summary": true,
+    "mps_eye_gaze": true,
+    "ground_truth": true,
+    "hand_data": true
+}

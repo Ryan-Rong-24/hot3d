@@ -1,0 +1,22 @@
+{
+    "have_hand_object_pose_gt": true,
+    "headset": "Aria",
+    "object_bop_uids": [
+        "21",
+        "23",
+        "30"
+    ],
+    "object_names": [
+        "food_vegetables",
+        "aria_small",
+        "puzzle_toy"
+    ],
+    "object_uids": [
+        "96945373046044",
+        "111305855142671",
+        "106957734975303"
+    ],
+    "participant_id": "P0001",
+    "recording_name": "P0001_4bf4e21a",
+    "version": 4
+}
